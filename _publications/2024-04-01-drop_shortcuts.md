@@ -3,8 +3,6 @@ title: "Drop the shortcuts: image augmentation improves fairness and decreases A
 collection: publications
 category: manuscripts
 permalink: /publication/2024-04-01-drop_shortcuts
-excerpt: 'We proposed a novel data augmentation method to reduce performance disparities in chest X-ray anonmaly detection across demographic groups.'
-
 date: 2024-04-01
 venue: 'EBioMedicine'
 paperurl: '[https://academicpages.github.io/files/drop_shortcuts.pdf]'
