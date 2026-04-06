@@ -8,5 +8,7 @@ nearly 60% reduction in the required sample size for clinical trials compared to
 date: 2025-01-14
 venue: 'medRxiv (Under reviewed at Science Translational Medicine)'
 paperurl: '[https://academicpages.github.io/files/paper1.pdf](https://www.medrxiv.org/content/10.1101/2025.01.13.25320461v1)'
+citation: 'Wang, R., Lang, C. E., Stoykov, M. E., Bonato, P., & Lee, S. I. (2025). Wearable-based digital biomarker provides a valid alternative to traditional clinical measures for post-stroke upper-limb motor recovery. medRxiv, 2025-01.'
+
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
