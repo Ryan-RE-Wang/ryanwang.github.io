@@ -1,11 +1,17 @@
 ---
 title: "Drop the shortcuts: image augmentation improves fairness and decreases AI detection of race and other demographics from medical images."
 collection: publications
-category: Journal
+category: manuscripts
 permalink: /publication/2024-04-01-drop_shortcuts
-excerpt: |
+excerpt: 'We proposed a novel data augmentation method to reduce performance disparities in chest X-ray anonmaly detection across demographic groups.'
 
-  **Background**
+date: 2024-04-01
+venue: 'EBioMedicine'
+paperurl: '[https://academicpages.github.io/files/paper3.pdf](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00082-3/fulltext)'
+
+---
+
+**Background**
   It has been shown that AI models can learn race on medical images, leading to algorithmic bias. Our aim in this study was to enhance the fairness of medical image models by eliminating bias related to race, age, and sex. We hypothesise models may be learning demographics via shortcut learning and combat this using image augmentation.
   
   **Methods**
@@ -16,11 +22,3 @@ excerpt: |
   
   **Interpretation**
   The model trained using the augmented images was less likely to be influenced by demographic information in detecting image labels. These results demonstrate that the proposed augmentation scheme could enhance the fairness of interpretations by DL models when dealing with data from patients with different demographic backgrounds.
-
-date: 2024-04-01
-venue: 'EBioMedicine'
-paperurl: '[https://academicpages.github.io/files/paper3.pdf](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00082-3/fulltext)'
-citation: 'Wang, R., Kuo, P. C., Chen, L. C., Seastedt, K. P., Gichoya, J. W., & Celi, L. A. (2024). Drop the shortcuts: image augmentation improves fairness and decreases AI detection of race and other demographics from medical images. EBioMedicine, 102.'
----
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
