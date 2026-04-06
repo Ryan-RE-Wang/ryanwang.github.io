@@ -1,6 +1,6 @@
 ---
 title: "Drop the shortcuts: image augmentation improves fairness and decreases AI detection of race and other demographics from medical images."
-collection: publications"
+collection: publications
 category: Journal
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Background
