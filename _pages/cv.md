@@ -14,7 +14,7 @@ Education
 * Ph.D in Computer Science, University of Massachusetts Amherst, 2028 (expected)
 * M.S. in Computer Science, University of Massachusetts Amherst, 2026 (expected)
 * B.S. in Computer Science, National Tsing Hua University, 2022
-* [View Full CV (PDF)](/file/CV.pdf)
+* [View Full CV (PDF)](https://ryan-re-wang.github.io/file/CV.pdf)
 
 Experience
 ======
