@@ -7,6 +7,7 @@ date: 2024-04-01
 venue: 'EBioMedicine'
 paperurl: 'https://ryan-re-wang.github.io/files/drop_shortcuts.pdf'
 citation: '<b>Wang, R.</b>, Kuo, P. C., Chen, L. C., Seastedt, K. P., Gichoya, J. W., & Celi, L. A. (2024). Drop the shortcuts: image augmentation improves fairness and decreases AI detection of race and other demographics from medical images. EBioMedicine, 102.'
+excerpt: ''
 ---
 
 **Background**
